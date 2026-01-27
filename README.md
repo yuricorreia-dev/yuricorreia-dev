@@ -5,8 +5,6 @@
   <img height="165em"
     src="https://github-readme-stats.vercel.app/api?username=yuricorreia-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
 
-  <br><br>
-
   <img align="center" alt="Yuri-Java" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Yuri-CSharp" height="30" width="40"
@@ -25,8 +23,6 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yuri-CSS" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <br><br>
 
   <a href="https://www.instagram.com/yuricorreia.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
