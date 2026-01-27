@@ -4,7 +4,7 @@
 
   <img height="165em"
     src="https://github-readme-stats.vercel.app/api?username=yuricorreia-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
-    
+
   <!-- Linguagens -->
   <img align="center" alt="Yuri-Java" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -30,6 +30,10 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Yuri-Postman" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img align="center" alt="Yuri-VSCode" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Yuri-VisualStudio" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 
   <!-- Contato -->
   <a href="https://www.instagram.com/yuricorreia.dev" target="_blank">
