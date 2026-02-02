@@ -2,15 +2,15 @@
 
 ## Sobre mim
 
-- 💻 **Programador de Software**, com foco em aplicações web modernas (SPA e API)
-- ⚙️ Experiência com **React, Next.js, Node.js e TypeScript**
-- 🧠 Interesse em **boas práticas, clean code, arquitetura e Docker**
-- 🚀 Desenvolvimento de projetos priorizando funcionalidades, organização do código e evolução contínua do frontend
-- 📚 Sempre aprendendo e evoluindo no ecossistema JavaScript
+- 💻 **Desenvolvedor Full-Stack** apaixonado por criar aplicações web modernas, escaláveis e de alta performance (SPA e APIs)  
+- ⚡ Experiência sólida com **React, Next.js, Node.js e TypeScript**, aplicando boas práticas e arquitetura limpa  
+- 🧠 Foco em **clean code, design patterns, performance e DevOps (Docker)**  
+- 🚀 Gosto de transformar ideias em projetos funcionais, priorizando **organização, escalabilidade e evolução contínua do frontend**  
+- 📚 Sempre aprendendo, explorando novas tecnologias e tendências do **ecossistema JavaScript**  
 
 ---
 
-## ferramentas
+##  Ferramentas & Tecnologias
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,6 +30,6 @@
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Correia-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581991890048)
-[![Gmail](https://img.shields.io/badge/Gmail-yuricorreia.oficial0507@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuricorreia.oficial0507@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581991890048)  
+[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuricorreia.oficial0507@gmail.com)
