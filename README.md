@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,25:0F172A,50:312E81,75:7C3AED,100:A855F7&section=header&text=Yuri%20Correia&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Modern%20Software%20Architecture%20•%20High%20Performance%20Applications&descAlignY=60&descSize=18"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+from+Brazil;React+•+Node.js+•+Python+•+JavaScript;Modern+Software+Architecture;Performance+•+Innovation+•+Technology;Building+scalable+applications" />
-
 <br><br>
 
 
