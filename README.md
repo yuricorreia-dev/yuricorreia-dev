@@ -1,16 +1,13 @@
 <div align="center">
 
-<img 
-width="100%" 
-height="260px"
-style="
-object-fit: cover;
-border-radius: 12px;
-"
-src="./Hi, I'm Yuri Correia.png"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,25:0F172A,50:312E81,75:7C3AED,100:A855F7&section=header&text=Yuri%20Correia&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Modern%20Software%20Architecture%20•%20High%20Performance%20Applications&descAlignY=60&descSize=18"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+from+Brazil;React+•+Node.js+•+Python+•+JavaScript;Modern+Software+Architecture;Performance+•+Innovation+•+Technology;Building+scalable+applications" />
 
 <br><br>
+
 
 <img src="https://img.shields.io/badge/Frontend-React%20•%20Next.js-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
@@ -50,29 +47,4 @@ Passionate about performance, software engineering and building efficient digita
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.instagram.com/yuricorreia.dev?igsh=MWVybWNkcWd2eWM2NQ%3D%3D&utm_source=qr" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yuri-correia-04bba3372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YuriCorreia" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:yuricorreia.oficial0507@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/5581991890048">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
 </div>
