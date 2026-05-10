@@ -4,8 +4,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Building+modern+and+scalable+applications;React+•+Node.js+•+Python+•+JavaScript;Performance+•+Architecture+•+Innovation" />
-
 <br><br>
 
 <img src="https://img.shields.io/badge/Frontend-React%20•%20Next.js-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
