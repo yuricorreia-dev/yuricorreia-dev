@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img 
@@ -52,17 +51,28 @@ Passionate about performance, software engineering and building efficient digita
 
 ---
 
-## Contato
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+<div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581991890048)  
+<a href="https://www.instagram.com/yuricorreia.dev?igsh=MWVybWNkcWd2eWM2NQ%3D%3D&utm_source=qr" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuricorreia.oficial0507@gmail.com)
+<a href="https://www.linkedin.com/in/yuri-correia-04bba3372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="center"> 
+<a href="https://github.com/YuriCorreia" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,25:0F172A,50:312E81,75:7C3AED,100:A855F7"/>
+<a href="mailto:yuricorreia.oficial0507@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5581991890048">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 </div>
-```
