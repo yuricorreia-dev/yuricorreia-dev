@@ -18,14 +18,14 @@
 
 ---
 
-## 🚀 Professional Summary
+##  Professional Summary
 
 Full-Stack Developer focused on modern web applications, scalable systems and clean architecture.  
 Passionate about performance, software engineering and building efficient digital experiences.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,35 +47,13 @@ Passionate about performance, software engineering and building efficient digita
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="830em" src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Contact
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581991890048)  
 [![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuricorreia.oficial0507@gmail.com)
 
----
-
-<div align="center">
+<div align="center"> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,25:0F172A,50:312E81,75:7C3AED,100:A855F7"/>
 
