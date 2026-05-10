@@ -1,8 +1,15 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,25:0F172A,50:312E81,75:7C3AED,100:A855F7&section=header&text=Yuri%20Correia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Modern%20Software%20Architecture&descAlignY=60&descSize=18"/>
-
-<br>
+<img 
+width="100%" 
+height="260px"
+style="
+object-fit: cover;
+border-radius: 12px;
+"
+src="./Hi, I'm Yuri Correia.png"
+/>
 
 <br><br>
 
@@ -16,14 +23,14 @@
 
 ---
 
-##  Professional Summary
+## Professional Summary
 
 Full-Stack Developer focused on modern web applications, scalable systems and clean architecture.  
 Passionate about performance, software engineering and building efficient digital experiences.
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,7 +55,9 @@ Passionate about performance, software engineering and building efficient digita
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581991890048)  
+
 [![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuricorreia.oficial0507@gmail.com)
 
 <div align="center"> 
@@ -56,3 +65,4 @@ Passionate about performance, software engineering and building efficient digita
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,25:0F172A,50:312E81,75:7C3AED,100:A855F7"/>
 
 </div>
+```
