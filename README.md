@@ -1,12 +1,7 @@
 <div align="center">
-
-<!-- HEADER PRINCIPAL -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,25:0F172A,50:312E81,75:7C3AED,100:A855F7&section=header&text=YURI%20CORREIA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20DEVELOPER&descAlignY=55&descSize=16" />
-
-<!-- FONTE MONOESPAÇADA REAL (EFEITO DEV) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Clean+Architecture;Scalable+Systems;Performance+Driven+Engineering;React+%7C+Node.js+%7C+Python+%7C+TypeScript" />
+<!-- MONOSPACE FONT (DEV EFFECT) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Clean+Architecture;Scalable+Systems;Performance+Driven+Engineering;React+%7C+Node.js+%7C+Python+%7C+TypeScript;Software+Developer+%7C+Full+Stack+%7C+React+%7C+Python+%7C+JavaScript+%7C+MySQL+%7C+Systems+Analysis+and+Development+%7C+Scalable+Solutions+%7C+Modern+Architecture" />
 <br><br>
-
 <br>
 
 <!-- BADGES -->
