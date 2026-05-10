@@ -75,20 +75,24 @@ Focused on clean code, software engineering excellence, UI/UX quality and buildi
 
 <div align="center">
 
-<a href="https://www.instagram.com/yuricorreia.dev" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Professional%20Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://youtube.com/@yuricorreia" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-@yuricorreia-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yuri-correia-04bba3372" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://instagram.com/yuricorreia.dev" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@yuricorreia.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yuri-correia" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-in/yuri--correia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YuriCorreia" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Code%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-@YuriCorreia-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:yuricorreia.oficial0507@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Business%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Professional%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/5581991890048" target="_blank">
