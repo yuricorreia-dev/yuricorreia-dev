@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6b2a8c&height=180&section=header&text=Yuri%20Correia&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20de%20Software%20%7C%20IA%2C%20Automa%C3%A7%C3%A3o%20e%20Sistemas&descAlignY=62&descSize=18" alt="banner"/>
 
 <a href="https://linkedin.com/in/yuri-correia">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end+%7C+React+%26+Next.js;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aplicando+IA+e+Automa%C3%A7%C3%A3o+no+dia+a+dia;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Back-end+%7C+React+%26+Next.js;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aplicando+IA+e+Automa%C3%A7%C3%A3o+no+dia+a+dia;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
