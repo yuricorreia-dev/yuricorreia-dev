@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="380px" align="right">
 
-### 👋 Sobre mim
+### Sobre mim
 
 Profissional de Tecnologia com formação técnica em Desenvolvimento de Sistemas e graduando em Análise e Desenvolvimento de Sistemas. Experiência prática no desenvolvimento e manutenção de aplicações web utilizando **React, Next.js, TypeScript, Node.js** e bancos de dados relacionais.
 
@@ -19,13 +19,13 @@ Conhecimento em Inteligência Artificial aplicada, automação de processos, int
 Perfil analítico, organizado, proativo e com facilidade para aprender novas tecnologias, utilizando a IA como aliada para aumentar a produtividade e solucionar problemas técnicos.
 
 - 🔭 Atualmente atuando como Auxiliar de Logística na **Cardeal Distribuidora** e evoluindo como desenvolvedor front-end em projetos como a landing page institucional da **Caruá Summit**
-- 🌱 Sempre estudando: certificado em diversas trilhas de IA aplicada (Anthropic, OpenAI, Microsoft Learn e DIO)
+- 🤖 Sempre estudando: certificado em diversas trilhas de IA aplicada (Anthropic, OpenAI, Microsoft Learn e DIO)
 - 💬 Fale comigo sobre React, Next.js, automação com n8n ou engenharia de prompts
 - 📍 Caruaru - PE, Brasil
 
 <br clear="right"/>
 
-### 📫 Contato
+### Contato
 
 <p align="left">
   <a href="mailto:yuricorreia.oficial0507@gmail.com" title="Gmail">
@@ -38,7 +38,7 @@ Perfil analítico, organizado, proativo e com facilidade para aprender novas tec
 
 ---
 
-### 🛠️ Stack Técnica
+###  Stack Técnica
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,git,github,docker,linux,vercel&theme=dark" alt="Skills" />
@@ -61,13 +61,13 @@ Perfil analítico, organizado, proativo e com facilidade para aprender novas tec
 
 ---
 
-### 🌟 Soft Skills
+### Soft Skills
 
 `Organização` &nbsp;•&nbsp; `Proatividade` &nbsp;•&nbsp; `Responsabilidade` &nbsp;•&nbsp; `Comprometimento` &nbsp;•&nbsp; `Atenção aos detalhes` &nbsp;•&nbsp; `Aprendo rápido` &nbsp;•&nbsp; `Trabalho em equipe` &nbsp;•&nbsp; `Busca por melhoria contínua`
 
 ---
 
-### 💼 Experiência
+### Experiência
 
 [<img align="left" height="94px" width="94px" alt="Cardeal Distribuidora" src="https://ui-avatars.com/api/?name=Cardeal+Distribuidora&background=6b2a8c&color=fff&size=94&bold=true"/>](#)
 **Auxiliar de Logística** \
@@ -86,14 +86,14 @@ Desenvolvimento de Landing Page institucional com foco em performance, responsiv
 
 ---
 
-### 🎓 Formação
+###  Formação
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Faculdade Nova Roma *(02/2026 - Em andamento)*
 - **Técnico em Desenvolvimento de Sistemas** — Escola Técnica Estadual Ministro Fernando Lyra *(02/2023 - 12/2025)*
 
 ---
 
-### 📜 Certificações
+###  Certificações
 
 **Anthropic** — Claude 101 · Claude Code 101 · Claude Platform 101 · Claude Code in Action · AI Fluency: Framework & Foundations · AI Fluency for Small Businesses
 
@@ -105,7 +105,7 @@ Desenvolvimento de Landing Page institucional com foco em performance, responsiv
 
 ---
 
-### ⚙️ GitHub Analytics
+###  GitHub Analytics
 
 <table>
   <tr>
@@ -142,11 +142,3 @@ Desenvolvimento de Landing Page institucional com foco em performance, responsiv
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6b2a8c&height=120&section=footer" alt="footer"/>
-
----
-
-<details>
-
-<br/>
-
-</details>
