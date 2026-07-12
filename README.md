@@ -29,14 +29,18 @@ Perfil analítico, organizado, proativo e com facilidade para aprender novas tec
 
 <p align="left">
   <a href="mailto:yuricorreia.oficial0507@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/yuri-correia-04bba3372" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/yuricorreia-dev" title="GitHub">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/yuri-correia-04bba3372" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/yuricorreia-dev" target="_blank" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
----
 
 ###  Stack Técnica
 
