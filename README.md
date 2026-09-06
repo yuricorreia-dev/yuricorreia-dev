@@ -71,20 +71,49 @@ Perfil analítico, organizado, proativo e com facilidade para aprender novas tec
 
 ---
 
+---
+
 ### Experiência
 
 [<img align="left" height="94px" width="94px" alt="Cardeal Distribuidora" src="https://ui-avatars.com/api/?name=Cardeal+Distribuidora&background=6b2a8c&color=fff&size=94&bold=true"/>](#)
+
 **Auxiliar de Logística** \
-**Cardeal Distribuidora** • 2025 - Atual \
-Atuação em controle operacional, organização de processos e suporte à eficiência da operação.
+**Cardeal Distribuidora** • 12/2025 - Atual • Caruaru, PE
+
+Atuação na operação logística, com foco em **avarias, controle de estoque, separação de pedidos, carregamento, descarregamento e inventário**. Experiência em organização de processos, conferência de informações e suporte à eficiência operacional.
+
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Caruá Summit" src="https://ui-avatars.com/api/?name=Caru%C3%A1+Summit&background=6b2a8c&color=fff&size=94&bold=true"/>](#)
-**Desenvolvedor Front-end** \
-**Caruá Summit** • 05/2026 - 06/2026 \
-Linguagens & Tecnologias: `React`, `TypeScript` \
-Desenvolvimento de Landing Page institucional com foco em performance, responsividade e experiência do usuário.
+[<img align="left" height="94px" width="94px" alt="Caruá Hub" src="https://ui-avatars.com/api/?name=Carua+Hub&background=6b2a8c&color=fff&size=94&bold=true"/>](#)
+
+**Desenvolvedor Front-end Web Voluntário** \
+**Caruá Hub — Caruá Summit 2026** • 05/2026 - 06/2026 • Remoto
+
+Atuação no desenvolvimento da **landing page do Caruá Summit 2026 — São João Tech**, evento voltado à inovação, tecnologia, cultura e empreendedorismo no Agreste.
+
+Participação na implementação da interface, estrutura e principais seções da página, incluindo **apresentação do evento, programação, palestrantes, patrocinadores, chamadas para inscrição e contagem regressiva**, com foco em responsividade, usabilidade e experiência do usuário.
+
+**Tecnologias:** `React` `Vite` `JavaScript` `TypeScript` `HTML` `CSS` `Git`
+
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="UniBus" src="https://ui-avatars.com/api/?name=UniBus&background=6b2a8c&color=fff&size=94&bold=true"/>](#)
+
+**Desenvolvedor de Software — TCC** \
+**Projeto UniBus** • 04/2025 - 10/2025 • Caruaru, PE
+
+Desenvolvimento do **UniBus**, uma solução Full Stack voltada à gestão e acompanhamento do transporte escolar.
+
+Atuação no desenvolvimento **Front-end e Back-end** de uma aplicação mobile destinada a **estudantes, motoristas e gestores escolares**, com funcionalidades para centralização de informações, acompanhamento de rotas, comunicação e gerenciamento do transporte escolar.
+
+Participação em diferentes etapas do desenvolvimento, incluindo **análise de requisitos, implementação de interfaces, desenvolvimento de funcionalidades, integração entre sistemas, banco de dados, testes e correções**.
+
+**Tecnologias:** `React Native` `Expo` `JavaScript` `TypeScript` `APIs` `Banco de Dados` `Git`
+
+**Resultado:** Trabalho de Conclusão de Curso Técnico avaliado com **nota máxima**.
+
 <br/>
 <br/>
 
