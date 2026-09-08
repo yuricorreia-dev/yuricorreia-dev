@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=180&section=header&text=Yuri%20Correia&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20de%20Software%20%7C%20IA%20e%20Sistemas&descAlignY=68&descSize=18" alt="banner"/>
 
+<br>
+
 <a href="https://linkedin.com/in/yuri-correia">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+Front-end+%26+Back-end;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;TypeScript+%7C+JavaScript+%7C+Java+%7C+C;APIs+REST+%7C+PostgreSQL+%7C+MySQL;Docker+%7C+Git+%7C+GitHub+%7C+Linux;IA+%7C+Engenharia+de+Prompts+%7C+Automa%C3%A7%C3%A3o;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo%2C+construindo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+Front-end+%26+Back-end;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;TypeScript+%7C+JavaScript+%7C+Java+%7C+C;APIs+REST+%7C+PostgreSQL+%7C+MySQL+%7C+Prisma;Docker+%7C+Git+%7C+GitHub+%7C+Linux;IA+%7C+Engenharia+de+Prompts;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo%2C+construindo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </a>
 
@@ -18,14 +20,14 @@
 
 Profissional de Tecnologia com formação técnica em Desenvolvimento de Sistemas e graduando em Análise e Desenvolvimento de Sistemas. Experiência prática no desenvolvimento e manutenção de aplicações web utilizando **React, Next.js, TypeScript, Node.js** e bancos de dados relacionais.
 
-Conhecimento em Inteligência Artificial aplicada, automação de processos, integração entre sistemas, APIs, controle de versão com Git e configuração de ambientes utilizando Docker. Atuação voltada à organização, documentação técnica, melhoria contínua de processos e suporte à evolução de soluções digitais.
+Conhecimento em **Inteligência Artificial aplicada, Engenharia de Prompts, integração entre sistemas, APIs, controle de versão com Git e configuração de ambientes utilizando Docker**. Atuação voltada à organização, documentação técnica, melhoria contínua de processos e suporte à evolução de soluções digitais.
 
 Perfil analítico, organizado, proativo e com facilidade para aprender novas tecnologias, utilizando a IA como aliada para aumentar a produtividade e solucionar problemas técnicos.
 
 * Atualmente atuando como Auxiliar de Logística na **Cardeal Distribuidora** e evoluindo como desenvolvedor front-end em projetos como a landing page institucional da **Caruá Summit**
-* Sempre estudando e ampliando conhecimentos em **IA, desenvolvimento de software, dados, automação e infraestrutura**
+* Sempre estudando e ampliando conhecimentos em **IA, desenvolvimento de software, dados e infraestrutura**
 * Certificações e credenciais em **Anthropic, OpenAI, Microsoft Learn, Data Science Academy, ENAP e DIO**
-* Fale comigo sobre React, Next.js, Node.js, NestJS, Docker, automação com n8n ou engenharia de prompts
+* Fale comigo sobre React, Next.js, Node.js, NestJS, Docker ou Engenharia de Prompts
 * Caruaru - PE, Brasil
 
 <br clear="right"/>
@@ -57,16 +59,14 @@ Perfil analítico, organizado, proativo e com facilidade para aprender novas tec
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,nestjs,java,c,mysql,postgresql,prisma,git,github,docker,linux,vite,vercel&theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Node.js, Java, C, MySQL, PostgreSQL, Prisma, Git, GitHub, Docker, Linux, Vite e Vercel"/>
- 
+
 </p>
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/ChatGPT-0A2540?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 
 <img src="https://img.shields.io/badge/Prompt_Engineering-0A2540?style=for-the-badge&logo=sparkles&logoColor=white" alt="Prompt Engineering"/>
 
@@ -78,7 +78,7 @@ Perfil analítico, organizado, proativo e com facilidade para aprender novas tec
 * **Backend:** Node.js, NestJS, Express e APIs REST
 * **Linguagens:** TypeScript, JavaScript, Java e C
 * **Banco de Dados:** MySQL, PostgreSQL, SQL e Prisma ORM
-* **IA e Automação:** ChatGPT, Claude, Engenharia de Prompts e n8n
+* **IA:** ChatGPT, Claude, Inteligência Artificial Aplicada e Engenharia de Prompts
 * **DevOps e Infraestrutura:** Docker, Docker Compose, Linux e Vercel
 * **Ferramentas:** Git, GitHub e Vite
 
@@ -103,7 +103,7 @@ Perfil analítico, organizado, proativo e com facilidade para aprender novas tec
 **Cardeal Distribuidora** • 12/2025 - Atual • Caruaru, PE
 
 Atuação na operação logística, com foco em **avarias, controle de estoque, separação de pedidos, carregamento, descarregamento e inventário**. Experiência em organização de processos, conferência de informações e suporte à eficiência operacional.
-   
+
 <br/>
 <br/>
 
@@ -206,12 +206,11 @@ Escola Técnica Estadual Ministro Fernando Lyra • 02/2023 - 12/2025
 
 ---
 
-**Automação & Engenharia de Prompts**
+** Engenharia de Prompts**
 
 **DIO**
 
 * Técnicas de Engenharia de Prompt
-* Automatizando Processos com N8N
 * Criando um Gerador de Currículos ATS Friendly com Lovable
 
 ---
