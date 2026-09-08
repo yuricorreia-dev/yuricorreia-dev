@@ -103,7 +103,7 @@ Perfil analítico, organizado, proativo e com facilidade para aprender novas tec
 **Cardeal Distribuidora** • 12/2025 - Atual • Caruaru, PE
 
 Atuação na operação logística, com foco em **avarias, controle de estoque, separação de pedidos, carregamento, descarregamento e inventário**. Experiência em organização de processos, conferência de informações e suporte à eficiência operacional.
-
+   
 <br/>
 <br/>
 
