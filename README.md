@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/yuri-correia">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+Front-end+%26+Back-end;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;TypeScript+%7C+JavaScript+%7+Java+%7C+C;APIs+REST+%7C+PostgreSQL+%7C+MySQL;Docker+%7C+Git+%7C+GitHub+%7C+Linux;IA+%7C+Engenharia+de+Prompts+%7C+Automa%C3%A7%C3%A3o;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo%2C+construindo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+Front-end+%26+Back-end;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;TypeScript+%7C+JavaScript+%7C+Java+%7C+C;APIs+REST+%7C+PostgreSQL+%7C+MySQL;Docker+%7C+Git+%7C+GitHub+%7C+Linux;IA+%7C+Engenharia+de+Prompts+%7C+Automa%C3%A7%C3%A3o;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo%2C+construindo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 
 </a>
 
@@ -56,8 +56,8 @@ Perfil analítico, organizado, proativo e com facilidade para aprender novas tec
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,nestjs,java,c,mysql,postgresql,prisma,git,github,docker,linux,vite,vercel&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind, Node.js,Java, C, MySQL, PostgreSQL, Prisma, Git, GitHub, Docker, Linux, Vite e Vercel"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,nestjs,java,c,mysql,postgresql,prisma,git,github,docker,linux,vite,vercel&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind, Node.js, Java, C, MySQL, PostgreSQL, Prisma, Git, GitHub, Docker, Linux, Vite e Vercel"/>
+ 
 </p>
 
 <p align="left">
@@ -185,7 +185,7 @@ Escola Técnica Estadual Ministro Fernando Lyra • 02/2023 - 12/2025
 
 ---
 
-**Dados, Engenharia de Dados & Business Intelligence**
+** Dados, Engenharia de Dados & Business Intelligence**
 
 **Data Science Academy**
 
