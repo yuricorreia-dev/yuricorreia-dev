@@ -56,7 +56,7 @@ Perfil analítico, organizado, proativo e com facilidade para aprender novas tec
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,nestjs,java,c,mysql,postgresql,prisma,git,github,docker,linux,vite,vercel&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind, Node.js, Java, C, MySQL, PostgreSQL, Prisma, Git, GitHub, Docker, Linux, Vite e Vercel"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,nestjs,java,c,mysql,postgresql,prisma,git,github,docker,linux,vite,vercel&theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Node.js, Java, C, MySQL, PostgreSQL, Prisma, Git, GitHub, Docker, Linux, Vite e Vercel"/>
  
 </p>
 
