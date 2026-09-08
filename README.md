@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/yuri-correia">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+Front-end+%26+Back-end;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;TypeScript+%7C+JavaScript+%7C+Java+%7C+C;APIs+REST+%7C+PostgreSQL+%7C+MySQL;Docker+%7C+Git+%7C+GitHub+%7C+Linux;IA+%7CEngenharia+de+Prompts;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo%2C+construindo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+Front-end+%26+Back-end;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;TypeScript+%7C+JavaScript+%7C+Java+%7C+C;APIs+REST+%7C+PostgreSQL+%7C+MySQL;Docker+%7C+Git+%7C+GitHub+%7C+Linux;IA+%7C+Engenharia+de+Prompts+%7C+Automa%C3%A7%C3%A3o;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo%2C+construindo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 
 </a>
 
@@ -23,7 +23,8 @@ Conhecimento em Inteligência Artificial aplicada, automação de processos, int
 Perfil analítico, organizado, proativo e com facilidade para aprender novas tecnologias, utilizando a IA como aliada para aumentar a produtividade e solucionar problemas técnicos.
 
 * Atualmente atuando como Auxiliar de Logística na **Cardeal Distribuidora** e evoluindo como desenvolvedor front-end em projetos como a landing page institucional da **Caruá Summit**
-* Sempre estudando: certificado em diversas trilhas de IA aplicada (Anthropic, OpenAI, Microsoft Learn e DIO)
+* Sempre estudando e ampliando conhecimentos em **IA, desenvolvimento de software, dados, automação e infraestrutura**
+* Certificações e credenciais em **Anthropic, OpenAI, Microsoft Learn, Data Science Academy, ENAP e DIO**
 * Fale comigo sobre React, Next.js, Node.js, NestJS, Docker, automação com n8n ou engenharia de prompts
 * Caruaru - PE, Brasil
 
@@ -98,7 +99,7 @@ Perfil analítico, organizado, proativo e com facilidade para aprender novas tec
 
 [<img align="left" height="94px" width="94px" alt="Cardeal Distribuidora" src="https://ui-avatars.com/api/?name=Cardeal+Distribuidora&background=0A2540&color=fff&size=94&bold=true"/>](#)
 
-**Auxiliar de Logística**  
+**Auxiliar de Logística**
 **Cardeal Distribuidora** • 12/2025 - Atual • Caruaru, PE
 
 Atuação na operação logística, com foco em **avarias, controle de estoque, separação de pedidos, carregamento, descarregamento e inventário**. Experiência em organização de processos, conferência de informações e suporte à eficiência operacional.
@@ -108,7 +109,7 @@ Atuação na operação logística, com foco em **avarias, controle de estoque, 
 
 [<img align="left" height="94px" width="94px" alt="Caruá Hub" src="https://ui-avatars.com/api/?name=Carua+Hub&background=0A2540&color=fff&size=94&bold=true"/>](#)
 
-**Desenvolvedor Front-end Web Voluntário**  
+**Desenvolvedor Front-end Web Voluntário**
 **Caruá Hub — Caruá Summit 2026** • 05/2026 - 06/2026 • Remoto
 
 Atuação no desenvolvimento da **landing page do Caruá Summit 2026 — São João Tech**, evento voltado à inovação, tecnologia, cultura e empreendedorismo no Agreste.
@@ -122,7 +123,7 @@ Participação na implementação da interface, estrutura e principais seções 
 
 [<img align="left" height="94px" width="94px" alt="UniBus" src="https://ui-avatars.com/api/?name=UniBus&background=0A2540&color=fff&size=94&bold=true"/>](#)
 
-**Desenvolvedor de Software — TCC**  
+**Desenvolvedor de Software — TCC**
 **Projeto UniBus** • 04/2025 - 10/2025 • Caruaru, PE
 
 Desenvolvimento do **UniBus**, uma solução Full Stack voltada à gestão e acompanhamento do transporte escolar.
@@ -142,31 +143,76 @@ Participação em diferentes etapas do desenvolvimento, incluindo **análise de 
 
 ### Formação
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**
 Faculdade Nova Roma • 02/2026 - Em andamento
 
-**Técnico em Desenvolvimento de Sistemas**  
+**Técnico em Desenvolvimento de Sistemas**
 Escola Técnica Estadual Ministro Fernando Lyra • 02/2023 - 12/2025
 
 ---
 
-### Certificações
+### Certificações & Credenciais
+
+**Inteligência Artificial & IA Aplicada**
 
 **Anthropic**
 
-Claude 101 · Claude Code 101 · Claude Platform 101 · Claude Code in Action · AI Fluency: Framework & Foundations · AI Fluency for Small Businesses
-
-**Microsoft Learn**
-
-Sistemas multiagentes e orquestração · Ambientes de execução de ferramentas, MCP e agente · Criando a arquitetura do agente e a integração do SDLC · Desenvolvendo em Sistemas de IA Agencial (Partes 1 e 2) · Governança, proteções e operações
+* Claude 101
+* Claude Code 101
+* Claude Platform 101
+* Introduction to Claude Cowork
+* AI Fluency: Framework & Foundations
+* AI Fluency for Small Businesses
+* AI Fluency for Creative Work
+* AI Capabilities and Limitations
+* Claude Code in Action
+* Building with the Claude API
+* Deploying Claude Enterprise with Confidence
 
 **OpenAI**
 
-AI Foundations · Applied AI Foundations · Agents and Workflows
+* AI Foundations
+* Applied AI Foundations
+* Agents and Workflows
+
+**Microsoft Learn**
+
+* Sistemas multiagentes e orquestração
+* Ambientes de execução de ferramentas, MCP e agente
+* Criando a arquitetura do agente e a integração do SDLC
+* Desenvolvendo em Sistemas de IA Agencial — Partes 1 e 2
+* Governança, proteções e operações
+
+---
+
+**Dados, Engenharia de Dados & Business Intelligence**
+
+**Data Science Academy**
+
+* Fundamentos de Engenharia de Dados
+* Microsoft Power BI para Business Intelligence e Data Science
+
+**ENAP — Escola Nacional de Administração Pública**
+
+* Governança de Dados
+
+---
+
+** Qualidade & Engenharia de Software**
+
+**Online Cursos Gratuitos**
+
+* Auditoria de Software
+
+---
+
+**Automação & Engenharia de Prompts**
 
 **DIO**
 
-Técnicas de Engenharia de Prompt · Automatizando Processos com N8N · Criando um Gerador de Currículos ATS Friendly com Lovable
+* Técnicas de Engenharia de Prompt
+* Automatizando Processos com N8N
+* Criando um Gerador de Currículos ATS Friendly com Lovable
 
 ---
 
